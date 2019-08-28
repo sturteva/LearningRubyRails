@@ -1,0 +1,1 @@
+This simple WordCounter reads just the test.txt file included here.  
